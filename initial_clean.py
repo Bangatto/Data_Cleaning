@@ -7,7 +7,7 @@ import doctest
 def which_delimiter(string):
     """
     (str)->s tr
-    Want to return delimiter(space/comma/tab) in the input string
+    Want to return most occuring delimiter(space/comma/tab) in the input string
     >>> which_delimiter("0 1 2,3")
     ' '
     >>> which_delimiter("hello")
