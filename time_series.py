@@ -1,7 +1,3 @@
-# COMP 202 A4 PART 2
-# NAME: GATTUOCH KUON
-# STUDENT ID : 260-877-635
-
 import doctest
 import datetime
 #import matplotlib.pyplot as plt
