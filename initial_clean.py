@@ -1,7 +1,3 @@
-# COMP 202 A4 PART 1
-# NAME: GATTUOCH KUON
-# STUDENT ID : 260-877-635
-
 import doctest
 
 def which_delimiter(string):
